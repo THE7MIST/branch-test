@@ -1,3 +1,8 @@
-print("creating branch v1 this is dev 02")
+<<<<<<< HEAD
+print("creating branch v1")
 
 #hi im dev 2
+=====
+
+#dev 1 added something
+>>>>>>> dev01
